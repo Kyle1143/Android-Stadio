@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Touch Sample</string>
+
+    <string name="type">type</string>
+    <string name="point1">point1</string>
+    <string name="point2">point2</string>
+    <string name="length">length</string>
+</resources>

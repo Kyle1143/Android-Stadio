@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Intent Sample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_activity_orientation">OrientationActivity</string>
+
+    <string name="wifi">WIFI</string>
+    <string name="value">Value</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="accuracy">accuracy</string>
+    <string name="altitude">altitude</string>
+    <string name="GPS">GPS</string>
+
+    <string name="real_time">RealTime</string>
+    <string name="orientation">方位センサー</string>
+    <string name="azimuth">Z軸周りの方位角</string>
+    <string name="pitch">X軸周りの方位角</string>
+    <string name="roll">Y軸周りの方位角</string>
+    <string name="get_orientation">方位取得</string>
+    <string name="not_available">N/A</string>
+
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='Mezamashi'
+include ':app'

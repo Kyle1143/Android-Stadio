@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Orientation Sample</string>
+    <string name="orientation">方位センサー</string>
+    <string name="get_orientation">方位取得</string>
+    <string name="real_time">RealTime</string>
+    <string name="Textview1">TextView</string>
+    <string name="azimuth">Z軸周りの方位角</string>
+    <string name="pitch">X軸周りの方位角</string>
+    <string name="Textview2">TextView</string>
+    <string name="roll">Y軸周りの方位角</string>
+    <string name="Textview3">TextView</string>
+</resources>

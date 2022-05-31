@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Web Sample</string>
+    <string name="button">取得</string>
+    <string name="textview">TextView</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Location Sample</string>
+    <string name="wifi_altitude">altitude</string>
+    <string name="textview1">TextView</string>
+    <string name="wifi_latitude">latitude</string>
+    <string name="wifi_accuracy">accuracy</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="wifi_longitude">longitude</string>
+    <string name="textview4">TextView</string>
+    <string name="gps_latitude">latitude</string>
+    <string name="textview5">TextView</string>
+    <string name="textview6">TextView</string>
+    <string name="gps_longitude">longitude</string>
+    <string name="textview7">TextView</string>
+    <string name="gps_accuracy">accuracy</string>
+    <string name="textview8">TextView</string>
+    <string name="gps_altitude">altitude</string>
+    <string name="GPS">GPS</string>
+    <string name="WIFI">WIFI</string>
+    <string name="longitude">longitude</string>
+    <string name="textview">textview</string>
+    <string name="gps">GPS</string>
+    <string name="wifi">WIFI</string>
+</resources>

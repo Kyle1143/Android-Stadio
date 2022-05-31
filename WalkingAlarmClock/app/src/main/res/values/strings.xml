@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mezamashi</string>
+    <string name="alarm_name">Alarm Name</string>
+    <string name="action_save">save</string>
+    <string name="action_delete">delete</string>
+    <string name="alarm_save_msg">Alarm Set</string>
+    <string name="alarm_delete_msg">Alarm Delited</string>
+    <string name="title_wake_up">Good Morning!!</string>
+    <string name="title_confirm">Alarm Confirm</string>
+    <string name="request_code">Request Code</string>
+    <string name="alarm_id">Alarm ID</string>
+</resources>
