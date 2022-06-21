@@ -15,7 +15,7 @@ class RasberryPiLedHttpGetTask extends AsyncTask<Integer, Void, Void> {
     private Activity parentActivity;
     private ProgressDialog dialog = null;
 
-    private final String DEFAULTURL = "http://192.168.86.232/~pi/ledtest.php?";
+    private final String DEFAULTURL = "http://192.---.--.---/~pi/ledtest.php?";
     private String uri = null;
 
     public RasberryPiLedHttpGetTask(Activity parentActivity) {
